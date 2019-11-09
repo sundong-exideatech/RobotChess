@@ -1,0 +1,7 @@
+{
+	"fee": 5,
+	"robotchess_mail" : "robotchess@outlook.com",
+	"firebase_enable" : true,
+	"defalutCountry": "US",
+	"api_url" : "http://robotchess.itsuccess.online"
+}

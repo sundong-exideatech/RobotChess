@@ -1,0 +1,42 @@
+{
+  "name": "RobotChess",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "jcore-react-native": "^1.3.7",
+    "jpush-react-native": "^2.5.11",
+    "react": "16.8.6",
+    "react-native": "0.60.5",
+    "react-native-gesture-handler": "^1.4.1",
+    "react-native-modal": "^11.4.0",
+    "react-native-reanimated": "^1.3.0",
+    "react-native-settings-components": "https://github.com/radi-cho/react-native-settings-components",
+    "react-native-simple-toast": "0.1.1",
+    "react-native-snackbar": "^2.0.3",
+    "react-native-splash-screen": "^3.2.0",
+    "react-native-webview": "^7.4.2",
+    "react-navigation": "^4.0.10",
+    "react-navigation-drawer": "^2.2.2",
+    "react-navigation-stack": "^1.10.2",
+    "rsg-chess": "^1.1.0-alpha.2",
+    "rsg-chess-rn-graphics": "^1.1.0-alpha.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/runtime": "^7.6.3",
+    "@react-native-community/eslint-config": "^0.0.5",
+    "babel-jest": "^24.9.0",
+    "eslint": "^6.5.1",
+    "jest": "^24.9.0",
+    "metro-react-native-babel-preset": "^0.56.0",
+    "react-test-renderer": "16.8.6"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
